@@ -1,4 +1,4 @@
-package Principal;
+package br.com.alura.screenmatch.Principal;
 
 import br.com.alura.screenmatch.modelos.Titulo;
 import br.com.alura.screenmatch.modelos.TituloOmdb;
